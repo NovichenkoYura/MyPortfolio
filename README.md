@@ -1,2 +1,3 @@
-# MyPortfolio
-<h2>Test</h2>
+<h2>React/redux</h2>
+<ul>
+    <li>
