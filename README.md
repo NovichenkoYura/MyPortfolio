@@ -32,10 +32,10 @@
 
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero incidunt tempora quibusdam ipsam rerum repudiandae, deserunt sapiente voluptas omnis dolor quaerat cupiditate quas ut vel iusto suscipit nulla dolorum consectetur.
 Tempore, ut dolor, animi odit voluptatibus quas eius, nulla quo sint qui earum inventore numquam itaque rerum. Similique sapiente ducimus, quae atque expedita fugiat, doloremque nisi eaque eos saepe provident!
-Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligendi nisi consequuntur perferendis delectus minus eveniet tenetur debitis totam dolorum suscipit cumque ab sed! Enim totam maxime nam at.
 </p>
 
-<ul>Libs & technologies</ul>
+<h4>Libs & technologies</h4>
+<ul></ul>
 <li>React</li>
 <li>React-redux</li>
 <li>TypeScript</li>
@@ -43,5 +43,6 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 <li>ReactRouterDom v.6</li>
 <li>Formik, Yup</li>
 <li>JSON server</li>
+
 
 
