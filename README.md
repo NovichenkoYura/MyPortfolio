@@ -7,21 +7,26 @@
 
 <h2>JS</h2>
 <ul>
-    <li><a href="">Movies library</a></li>
+    <li><a href="https://lena-stukalo.github.io/command-project-js/">Movies library</a></li>
     <li><a href="">Todo list</a></li>
-    <li><a href="">Search app</a></li>
-    <li><a href="">Color switcher</a></li>
-    <li><a href="">Search app</a></li>
-    <li><a href="">Countdown timer</a></li>
-    <li><a href="">Search country info</a></li>
+    <li><a href="https://novichenkoyura.github.io/goit-js-hw-11/">Searching of images</a></li>
+    <li><a href="https://novichenkoyura.github.io/goit-js-hw-10/">Searching of countrie's info</a></li>
+    <li><a href="https://novichenkoyura.github.io/goit-js-hw-09/01-color-switcher.html">Color switcher</a></li>
+    <li><a href="https://novichenkoyura.github.io/goit-js-hw-09/02-timer.html">Countdown timer</a></li>
+  
     
 </ul>
 
 <h2>HTML/CSS</h2>
 <ul>
-    <li><a href="">Sweets shop site</a></li>
-    <li><a href="">Web studio site</a></li>    
+    <li><a href="https://lebraise.github.io/project-1-homemade-icescream/">Sweets shop site</a></li>
+    <li><a href="https://novichenkoyura.github.io/goit-markup-hw-08/">Web studio site</a></li>    
 </ul>
+
+
+
+
+
 
 
 
@@ -83,4 +88,36 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 <li>Formik, Yup</li>
 <li>JSON server</li>
 <li>useState, useEffect, useDispatch, useSelector</li>
+
+
+<h2>JS</h2>
+
+<h3><a href="https://lena-stukalo.github.io/command-project-js/">Movies library</a></h3>
+<p><a href="https://github.com/Lena-Stukalo/command-project-js">see code</a></p>
+
+<h3><a href="">Todo list</a></h3>
+<p><a href="">see code</a></p>
+
+<h3><a href="https://novichenkoyura.github.io/goit-js-hw-11/">Searching of images</a></h3>
+<p><a href="https://github.com/NovichenkoYura/goit-js-hw-11">see code</a></p>
+
+<h3><a href="https://novichenkoyura.github.io/goit-js-hw-10/">Searching of Countrie's info</a></h3>
+<p><a href="https://github.com/NovichenkoYura/goit-js-hw-10">see code</a></p>
+
+<h3><a href="https://novichenkoyura.github.io/goit-js-hw-09/01-color-switcher.html">Color switcher</a></h3>
+<p><a href="https://github.com/NovichenkoYura/goit-js-hw-09/tree/main/src">see code</a></p>
+
+<h3><a href="https://novichenkoyura.github.io/goit-js-hw-09/02-timer.html">Countdown timer</a></h3>
+<p><a href="https://github.com/NovichenkoYura/goit-js-hw-09/tree/main/src">see code</a></p>
+
+
+<h2>HTML/CSS</h2>
+
+<h3><a href="https://lebraise.github.io/project-1-homemade-icescream/">Sweets shop site</a></h3>
+<p><a href="https://github.com/Lebraise/project-1-homemade-icescream">see code</a></p>
+
+<h3><a href="https://novichenkoyura.github.io/goit-markup-hw-08/">Web studio site</a></h3>
+<p><a href="https://github.com/NovichenkoYura/goit-markup-hw-08">see code</a></p>
+
+
 
