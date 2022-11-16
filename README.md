@@ -134,6 +134,9 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 
 <h3><a href="https://novichenkoyura.github.io/goit-markup-hw-08/">Web studio site</a></h3>
 <p><a href="https://github.com/NovichenkoYura/goit-markup-hw-08">see code</a></p>
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/WebStudio_1.jpg">
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/WebStudio_2.jpg">
+
 
 
 
