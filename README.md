@@ -8,7 +8,7 @@
 <h2>JS</h2>
 <ul>
     <li><a href="https://lena-stukalo.github.io/command-project-js/">Movies library</a></li>
-    <li><a href="">Todo list</a></li>
+    <li><a href="https://youtu.be/pXSwUeMzJFY">Todo list</a></li>
     <li><a href="https://novichenkoyura.github.io/goit-js-hw-11/">Searching of images</a></li>
     <li><a href="https://novichenkoyura.github.io/goit-js-hw-10/">Searching of countrie's info</a></li>
     <li><a href="https://novichenkoyura.github.io/goit-js-hw-09/01-color-switcher.html">Color switcher</a></li>
@@ -95,7 +95,7 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 <h3><a href="https://lena-stukalo.github.io/command-project-js/">Movies library</a></h3>
 <p><a href="https://github.com/Lena-Stukalo/command-project-js">see code</a></p>
 
-<h3><a href="">Todo list</a></h3>
+<h3><a href="https://youtu.be/pXSwUeMzJFY">Todo list</a></h3>
 <p><a href="https://github.com/NovichenkoYura/todoReact/tree/main/todoreact">see code</a></p>
 
 <h3><a href="https://novichenkoyura.github.io/goit-js-hw-11/">Searching of images</a></h3>
