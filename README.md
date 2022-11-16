@@ -96,7 +96,7 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 <p><a href="https://github.com/Lena-Stukalo/command-project-js">see code</a></p>
 
 <h3><a href="">Todo list</a></h3>
-<p><a href="">see code</a></p>
+<p><a href="https://github.com/NovichenkoYura/todoReact/tree/main/todoreact">see code</a></p>
 
 <h3><a href="https://novichenkoyura.github.io/goit-js-hw-11/">Searching of images</a></h3>
 <p><a href="https://github.com/NovichenkoYura/goit-js-hw-11">see code</a></p>
