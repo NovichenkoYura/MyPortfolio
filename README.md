@@ -55,6 +55,8 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 <h3><a href="https://www.youtube.com/watch?v=-DaRnFj7qEA">Comments form</a></h3>
 <p><a href="https://github.com/NovichenkoYura/comments-form/tree/dev">see code</a></p>
 
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Comments_1.jpg">
+
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero incidunt tempora quibusdam ipsam rerum repudiandae, deserunt sapiente voluptas omnis dolor quaerat cupiditate quas ut vel iusto suscipit nulla dolorum consectetur.
 Tempore, ut dolor, animi odit voluptatibus quas eius, nulla quo sint qui earum inventore numquam itaque rerum. Similique sapiente ducimus, quae atque expedita fugiat, doloremque nisi eaque eos saepe provident!
 Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligendi nisi consequuntur perferendis delectus minus eveniet tenetur debitis totam dolorum suscipit cumque ab sed! Enim totam maxime nam at.
