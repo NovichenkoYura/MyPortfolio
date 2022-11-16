@@ -34,6 +34,9 @@
 
 <h3><a href="https://www.youtube.com/watch?v=ZJ8lNTee7z8">Self-guided tours</a></h3>
 <p><a href="https://github.com/NovichenkoYura/self-guided-tours/tree/dev/my-apps">see code</a></p>
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Selfguidedtours_1.jpg">
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Selfguidedtours_2.jpg">
+
 
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero incidunt tempora quibusdam ipsam rerum repudiandae, deserunt sapiente voluptas omnis dolor quaerat cupiditate quas ut vel iusto suscipit nulla dolorum consectetur.
 Tempore, ut dolor, animi odit voluptatibus quas eius, nulla quo sint qui earum inventore numquam itaque rerum. Similique sapiente ducimus, quae atque expedita fugiat, doloremque nisi eaque eos saepe provident!
@@ -50,7 +53,6 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 <li>Formik, Yup</li>
 <li>JSON server</li>
 <li>useState, useEffect, useDispatch, useSelector</li>
-
 
 <h3><a href="https://www.youtube.com/watch?v=-DaRnFj7qEA">Comments form</a></h3>
 <p><a href="https://github.com/NovichenkoYura/comments-form/tree/dev">see code</a></p>
@@ -101,12 +103,17 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 
 <h3><a href="https://lena-stukalo.github.io/command-project-js/">Movies library</a></h3>
 <p><a href="https://github.com/Lena-Stukalo/command-project-js">see code</a></p>
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Filmoteka_1.jpg">
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Filmoteka_2.jpg">
 
 <h3><a href="https://youtu.be/pXSwUeMzJFY">Todo list</a></h3>
 <p><a href="https://github.com/NovichenkoYura/todoReact/tree/main/todoreact">see code</a></p>
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Todo_1.jpg">
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Todo_2.jpg">
 
 <h3><a href="https://novichenkoyura.github.io/goit-js-hw-11/">Searching of images</a></h3>
 <p><a href="https://github.com/NovichenkoYura/goit-js-hw-11">see code</a></p>
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/SearchImages.jpg">
 
 <h3><a href="https://novichenkoyura.github.io/goit-js-hw-10/">Searching of Countrie's info</a></h3>
 <p><a href="https://github.com/NovichenkoYura/goit-js-hw-10">see code</a></p>
@@ -122,6 +129,8 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 
 <h3><a href="https://lebraise.github.io/project-1-homemade-icescream/">Sweets shop site</a></h3>
 <p><a href="https://github.com/Lebraise/project-1-homemade-icescream">see code</a></p>
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/SweetShopsSite_1.jpg">
+
 
 <h3><a href="https://novichenkoyura.github.io/goit-markup-hw-08/">Web studio site</a></h3>
 <p><a href="https://github.com/NovichenkoYura/goit-markup-hw-08">see code</a></p>
