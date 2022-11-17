@@ -1,6 +1,6 @@
 <h2>React/Redux</h2>
 <ul>
-    <li><a href="https://www.youtube.com/watch?v=ZJ8lNTee7z8">Self-guided tours</a></li>
+    <li><a href="https://www.youtube.com/watch?v=ZJ8lNTee7z8">Self-guided tours (in progress)</a></li>
     <li><a href="https://www.youtube.com/watch?v=-DaRnFj7qEA">Comments form</a></li>
     <li><a href="https://www.youtube.com/watch?v=xtuxj5Lr7D8">Note editor</a></li>
 </ul>
@@ -32,7 +32,7 @@
 
 <h2>React/Redux</h2>
 
-<h3><a href="https://www.youtube.com/watch?v=ZJ8lNTee7z8">Self-guided tours</a></h3>
+<h3><a href="https://www.youtube.com/watch?v=ZJ8lNTee7z8">Self-guided tours (in progress)</a></h3>
 <p><a href="https://github.com/NovichenkoYura/self-guided-tours/tree/dev/my-apps">see code</a></p>
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Selfguidedtours_1.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Selfguidedtours_2.jpg">
