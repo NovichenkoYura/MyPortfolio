@@ -38,7 +38,7 @@
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Selfguidedtours_2.jpg">
 
 
-<p> Selfguided app with http requests. The app allows to buy the detailed description of the selfguided tours. Following the description people are able to visit all places which mentioned in the guide. To buy the tour customer should register and log in. The app works with Json server and saves all data on it. There are opportunity to add tours to WishList and Shopping cart. Tha app also allows to become a partner, add own tours and get the royalty from selling.
+<p> Selfguided app with http requests. The app allows to buy the detailed description of the selfguided tours. Following the description people are able to visit all places which mentioned in the guide. To buy the tour customer should register and log in. The app works with Json server and saves all data on it. There are opportunity to add tours to WishList and Shopping cart. Tha app also allows to become a partner, add own tours and get the royalty from the selling.
 </p>
 
 <h4>Libs & technologies</h4>
@@ -56,9 +56,7 @@
 <p><a href="https://github.com/NovichenkoYura/comments-form/tree/dev">see code</a></p>
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Comments_1.jpg">
 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero incidunt tempora quibusdam ipsam rerum repudiandae, deserunt sapiente voluptas omnis dolor quaerat cupiditate quas ut vel iusto suscipit nulla dolorum consectetur.
-Tempore, ut dolor, animi odit voluptatibus quas eius, nulla quo sint qui earum inventore numquam itaque rerum. Similique sapiente ducimus, quae atque expedita fugiat, doloremque nisi eaque eos saepe provident!
-Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligendi nisi consequuntur perferendis delectus minus eveniet tenetur debitis totam dolorum suscipit cumque ab sed! Enim totam maxime nam at.
+<p> The app allow to add and render comments using JSON server. There is opportunity to switch pages and show more comments on one page.
 </p>
 
 <h4>Libs & technologies</h4>
