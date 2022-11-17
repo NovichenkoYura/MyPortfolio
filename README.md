@@ -79,7 +79,7 @@
 
 
 
-<p> Note editor app allows to create list of the notes. There are opportunity to edit notes, filter by date and name and search by name. 
+<p> Note editor app allows to create list of the notes. There are opportunity to edit notes, filter by date and name and search by title. 
 </p>
 
 <h4>Libs & technologies</h4>
@@ -99,6 +99,8 @@
 <p><a href="https://github.com/Lena-Stukalo/command-project-js">see code</a></p>
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Filmoteka_1.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Filmoteka_2.jpg">
+<p> Team project. The app uses http requests, get information from and render all necessary data. There is opportunity to search movies, add them to the lists of queue and wathed movies.
+</p>
 
 <h3><a href="https://youtu.be/pXSwUeMzJFY">Todo list</a></h3>
 <p><a href="https://github.com/NovichenkoYura/todoReact/tree/main/todoreact">see code</a></p>
