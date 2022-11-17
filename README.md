@@ -30,6 +30,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 <h2>React/Redux</h2>
 
 <h3><a href="https://www.youtube.com/watch?v=ZJ8lNTee7z8">Self-guided tours (in progress)</a></h3>
