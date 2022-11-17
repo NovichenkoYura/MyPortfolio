@@ -50,7 +50,7 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 <li>TypeScript</li>
 <li>Axios, createAsyncThunk</li>
 <li>ReactRouterDom v.6</li>
-<li>Formik, Yup</li>
+<li>Formik, Yup, React-toastify</li>
 <li>JSON server</li>
 <li>useState, useEffect, useDispatch, useSelector</li>
 
