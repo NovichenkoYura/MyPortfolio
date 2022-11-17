@@ -38,7 +38,7 @@
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Selfguidedtours_2.jpg">
 
 
-<p> Selfguided app with http requests. The app allows to buy the detailed description of the selfguided tours. Following the description people are able to visit all places which mentioned in the guide. To buy the tour customer should register and log in. The app works with Json server and saves all data on it. There are opportunity to add tours to WishList and Shopping cart. Tha app also allows to become a partner, add own tours and get the royalty from the selling.
+<p> Selfguided app with http requests. The app allows to buy the detailed description of the selfguided tours. Following the description people are able to visit all places which mentioned in the guide. To buy the tour customer should register and log in. The app works with Json server and saves all data on it. There is opportunity to add tours to WishList and Shopping cart. Tha app also allows to become a partner, add own tours and get the royalty from the selling.
 </p>
 
 <h4>Libs & technologies</h4>
@@ -79,7 +79,7 @@
 
 
 
-<p> Note editor app allows to create list of the notes. There are opportunity to edit notes, filter by date and name and search by title. 
+<p> Note editor app allows to create list of the notes. Users have opportunity to edit notes, filter by date and name and search by title. 
 </p>
 
 <h4>Libs & technologies</h4>
