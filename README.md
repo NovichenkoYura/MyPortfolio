@@ -23,22 +23,12 @@
     <li><a href="https://novichenkoyura.github.io/goit-markup-hw-08/">Web studio site</a></li>    
 </ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 <h2>React/Redux</h2>
 
