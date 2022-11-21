@@ -1,3 +1,5 @@
+<video src='https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/SelfGuidedTours_21.11.22.mp4' width=180/>
+
 <h2>React/Redux</h2>
 <ul>
     <li><a href="https://www.youtube.com/watch?v=ZJ8lNTee7z8">Self-guided tours (in progress)</a></li>
@@ -140,6 +142,6 @@
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/WebStudio_1.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/WebStudio_2.jpg">
 
-<video src='https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/SelfGuidedTours_21.11.22.mp4' width=180/>
+
 
 
