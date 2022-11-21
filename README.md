@@ -5,6 +5,7 @@
     <li><a href="https://www.youtube.com/watch?v=xtuxj5Lr7D8">Note editor</a></li>
 </ul>
 
+
 <h2>JS</h2>
 <ul>
     <li><a href="https://lena-stukalo.github.io/command-project-js/">Movies library</a></li>
@@ -139,6 +140,6 @@
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/WebStudio_1.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/WebStudio_2.jpg">
 
-
+<video src='https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/SelfGuidedTours_21.11.22.mp4' width=180/>
 
 
