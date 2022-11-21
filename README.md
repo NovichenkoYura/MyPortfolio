@@ -141,6 +141,7 @@
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/WebStudio_1.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/WebStudio_2.jpg">
 
+<video src='https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/SelfGuidedTours_21.11.22.mp4' width=180/>
 
 
 
