@@ -1,6 +1,6 @@
 <h2>React/Redux</h2>
 <ul>
-    <li><a href="https://www.youtube.com/watch?v=ZJ8lNTee7z8">Self-guided tours</a></li>
+    <li><a href="https://www.youtube.com/watch?v=ZJ8lNTee7z8">Self-guided tours (in progress)</a></li>
     <li><a href="https://www.youtube.com/watch?v=-DaRnFj7qEA">Comments form</a></li>
     <li><a href="https://www.youtube.com/watch?v=xtuxj5Lr7D8">Note editor</a></li>
 </ul>
@@ -23,24 +23,28 @@
     <li><a href="https://novichenkoyura.github.io/goit-markup-hw-08/">Web studio site</a></li>    
 </ul>
 
+<p> 
 
 
 
 
 
-
+</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 <h2>React/Redux</h2>
 
-<h3><a href="https://www.youtube.com/watch?v=ZJ8lNTee7z8">Self-guided tours</a></h3>
+<h3><a href="https://www.youtube.com/watch?v=ZJ8lNTee7z8">Self-guided tours (in progress)</a></h3>
 <p><a href="https://github.com/NovichenkoYura/self-guided-tours/tree/dev/my-apps">see code</a></p>
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Selfguidedtours_1.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Selfguidedtours_2.jpg">
 
 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero incidunt tempora quibusdam ipsam rerum repudiandae, deserunt sapiente voluptas omnis dolor quaerat cupiditate quas ut vel iusto suscipit nulla dolorum consectetur.
-Tempore, ut dolor, animi odit voluptatibus quas eius, nulla quo sint qui earum inventore numquam itaque rerum. Similique sapiente ducimus, quae atque expedita fugiat, doloremque nisi eaque eos saepe provident!
-Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligendi nisi consequuntur perferendis delectus minus eveniet tenetur debitis totam dolorum suscipit cumque ab sed! Enim totam maxime nam at.
+<p> Selfguided app with http requests. The app allows to buy the detailed description of the selfguided tours. Following the description people are able to visit all places which mentioned in the guide. To buy the tour customer should register and log in. The app works with Json server and saves all data on it. There is opportunity to add tours to WishList and Shopping cart. Tha app also allows to become a partner, add own tours and get the royalty from the selling.
 </p>
 
 <h4>Libs & technologies</h4>
@@ -50,7 +54,7 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 <li>TypeScript</li>
 <li>Axios, createAsyncThunk</li>
 <li>ReactRouterDom v.6</li>
-<li>Formik, Yup</li>
+<li>Formik, Yup, React-toastify</li>
 <li>JSON server</li>
 <li>useState, useEffect, useDispatch, useSelector</li>
 
@@ -58,9 +62,7 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 <p><a href="https://github.com/NovichenkoYura/comments-form/tree/dev">see code</a></p>
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Comments_1.jpg">
 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero incidunt tempora quibusdam ipsam rerum repudiandae, deserunt sapiente voluptas omnis dolor quaerat cupiditate quas ut vel iusto suscipit nulla dolorum consectetur.
-Tempore, ut dolor, animi odit voluptatibus quas eius, nulla quo sint qui earum inventore numquam itaque rerum. Similique sapiente ducimus, quae atque expedita fugiat, doloremque nisi eaque eos saepe provident!
-Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligendi nisi consequuntur perferendis delectus minus eveniet tenetur debitis totam dolorum suscipit cumque ab sed! Enim totam maxime nam at.
+<p> The app allow to add and render comments using JSON server. There is opportunity to switch pages and show more comments on one page.
 </p>
 
 <h4>Libs & technologies</h4>
@@ -83,9 +85,7 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 
 
 
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero incidunt tempora quibusdam ipsam rerum repudiandae, deserunt sapiente voluptas omnis dolor quaerat cupiditate quas ut vel iusto suscipit nulla dolorum consectetur.
-Tempore, ut dolor, animi odit voluptatibus quas eius, nulla quo sint qui earum inventore numquam itaque rerum. Similique sapiente ducimus, quae atque expedita fugiat, doloremque nisi eaque eos saepe provident!
-Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligendi nisi consequuntur perferendis delectus minus eveniet tenetur debitis totam dolorum suscipit cumque ab sed! Enim totam maxime nam at.
+<p> Note editor app allows to create list of the notes. Users have opportunity to edit notes, filter by date and name and search by title. 
 </p>
 
 <h4>Libs & technologies</h4>
@@ -105,6 +105,8 @@ Culpa nulla quam blanditiis officia ea obcaecati, rerum minima temporibus eligen
 <p><a href="https://github.com/Lena-Stukalo/command-project-js">see code</a></p>
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Filmoteka_1.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Filmoteka_2.jpg">
+<p> Team project. The app uses http requests, get information from and render all necessary data. There is opportunity to search movies, add them to the lists of queue and wathed movies.
+</p>
 
 <h3><a href="https://youtu.be/pXSwUeMzJFY">Todo list</a></h3>
 <p><a href="https://github.com/NovichenkoYura/todoReact/tree/main/todoreact">see code</a></p>
