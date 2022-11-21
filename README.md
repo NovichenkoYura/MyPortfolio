@@ -1,4 +1,3 @@
-<video src='https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/SelfGuidedTours_21.11.22.mp4' width=180/>
 
 <h2>React/Redux</h2>
 <ul>
