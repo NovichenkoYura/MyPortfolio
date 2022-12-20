@@ -54,6 +54,7 @@
 <li>Formik, Yup, React-toastify</li>
 <li>JSON server</li>
 <li>useState, useEffect, useDispatch, useSelector</li>
+
 <p><a href="https://github.com/NovichenkoYura/self-guided-tours/tree/dev/my-apps">see code</a></p>
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/1SelfGuidedTour_1.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/1SelfGuidedTour_2.jpg">
