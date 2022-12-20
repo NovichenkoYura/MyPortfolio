@@ -42,7 +42,7 @@
 
 <h3><a href="https://github.com/NovichenkoYura/MyPortfolio/blob/main/SelfGuidedToursVideo.md">Self-guided tours</a></h3>
 <p><a href="https://github.com/NovichenkoYura/self-guided-tours/tree/dev/my-apps">see code</a></p>
-<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Selfguidedtours_1.jpg">
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/1SelfGuidedTour_1.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/Selfguidedtours_2.jpg">
 
 
