@@ -42,6 +42,8 @@
 
 
 <h3><a href="https://github.com/NovichenkoYura/MyPortfolio/blob/main/SelfGuidedToursVideo.md">Self-guided tours</a></h3>
+<p><a href="https://github.com/NovichenkoYura/self-guided-tours/tree/dev">see code</a></p>
+
 <h4>Libs & technologies</h4>
 <ul></ul>
 <li>React</li>
@@ -65,7 +67,7 @@
 <li>JSON server</li>
 <li>useState, useEffect, useDispatch, useSelector</li>
 
-x<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/1SelfGuidedTour_1.jpg">
+<img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/1SelfGuidedTour_1.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/1SelfGuidedTour_2.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/1SelfGuidedTour_3.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/1SelfGuidedTour_4.jpg">
