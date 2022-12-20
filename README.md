@@ -40,10 +40,10 @@
 
 <h2>React/Redux</h2>
 
-<p> Selfguided app works with http requests. The app allows to buy the detailed description of the selfguided tours. Following the description people are able to visit all places which mentioned in the guide. To buy the tour customer should register and log in. The app works with JSON server and saves all data on it. There is opportunity to add tours to WishList and Shopping cart. Tha app also allows to become a partner, add own tours and get the royalty from the selling.
-</p>
 
 <h3><a href="https://github.com/NovichenkoYura/MyPortfolio/blob/main/SelfGuidedToursVideo.md">Self-guided tours</a></h3>
+<p> Selfguided app works with http requests. The app allows to buy the detailed description of the selfguided tours. Following the description people are able to visit all places which mentioned in the guide. To buy the tour customer should register and log in. The app works with JSON server and saves all data on it. There is opportunity to add tours to WishList and Shopping cart. Tha app also allows to become a partner, add own tours and get the royalty from the selling.
+</p>
 <p><a href="https://github.com/NovichenkoYura/self-guided-tours/tree/dev/my-apps">see code</a></p>
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/1SelfGuidedTour_1.jpg">
 <img src="https://github.com/NovichenkoYura/MyPortfolio/blob/main/Imgs/1SelfGuidedTour_2.jpg">
