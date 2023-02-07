@@ -2,7 +2,7 @@
 <h2>React/Redux</h2>
 <ul>
     <li><a href="https://github.com/NovichenkoYura/MyPortfolio/blob/main/SelfGuidedToursVideo.md">Self-guided tours</a></li>
-    <li><a href="cards-mui-withsearch.vercel.app">Cards</a></li>
+    <li><a href="https://cards-mui-withsearch.vercel.app/">Cards</a></li>
     <li><a href="https://www.youtube.com/watch?v=-DaRnFj7qEA">Comments form</a></li>
     <li><a href="https://www.youtube.com/watch?v=xtuxj5Lr7D8">Note editor</a></li>
 </ul>
